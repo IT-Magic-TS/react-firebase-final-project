@@ -1,0 +1,16 @@
+.navbar ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navbar .logo {
+  margin-right: auto;
+}
+
+.navbar .logo img {
+  width: 36px;
+  filter: invert(25%);
+  height: auto;
+  margin-right: 10px;
+}

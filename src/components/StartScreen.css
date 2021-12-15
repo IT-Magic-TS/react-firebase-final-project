@@ -1,0 +1,9 @@
+.start-screen {
+  height: 100vh;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.start-screen h2 {
+  margin-top: 30%;
+}

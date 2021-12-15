@@ -1,0 +1,9 @@
+.create-form {
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+.create-form h3 {
+  color: rgb(80, 190, 80);
+  text-shadow: 2px;
+}
